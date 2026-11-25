@@ -1,5 +1,5 @@
 
-public class Welcome {
+public class Demojava {
     public static void main(String[] args) {
         System.out.println("Welcome to Jenkins");
     }
